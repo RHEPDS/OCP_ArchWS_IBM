@@ -1,4 +1,6 @@
-# Red Hat OpenShift 4.x Infrastructure Workshop for IBM Nordics
+# Red Hat OpenShift 4.x Infrastructure Workshop 
+
+# for IBM Nordics
 
 ## version V0323
 
