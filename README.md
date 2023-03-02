@@ -47,8 +47,6 @@
 
 11:15		Applications on OpenShift / Cloud Native
 
-11:35		OpenShift Security
-
 12:30		Lunch Break
 
 13:30		OpenShift Virtualisation
