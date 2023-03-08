@@ -29,7 +29,7 @@
 
 15:15		OpenShift Install	
 
-16:16		Self learning OCP DO280
+16:15		Self learning OCP DO280
 
 		https://connect.redhat.com/en/training/course-catalog?m=c&id=45314151&utm_source=LOC
 
