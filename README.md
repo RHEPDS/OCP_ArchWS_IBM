@@ -17,7 +17,11 @@
 
 9:15		Welcome and Intro	
 
-9:30		OpenShift Architecture P1		
+9:30		OpenShift Architecture P1
+
+10:30		Coffee Break
+
+10:45		Continue Arch P1
 
 12:30		Break
 
