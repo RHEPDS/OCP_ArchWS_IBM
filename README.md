@@ -49,9 +49,11 @@
 
 11:00		Break
 
-11:15		Applications on OpenShift / Cloud Native
+11:15		Applications on OpenShift
 
-12:30		Lunch Break
+12:00		Break
+
+13:00		OpenShift on the Edge
 
 13:30		OpenShift Virtualisation
 
